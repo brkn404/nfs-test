@@ -1,0 +1,16 @@
+(base) brianknight@Brians-MBP nfs-test % python3 ./nfs_throughput_test_local.py
+Created local test directory: ./nfs_test_local
+Starting write operations in local directory...
+Creating file: nfs_test_local/test_file_0.dat
+Creating file: nfs_test_local/test_file_1.dat
+Creating file: nfs_test_local/test_file_2.dat
+Creating file: nfs_test_local/test_file_3.dat
+Creating file: nfs_test_local/test_file_4.dat
+Creating file: nfs_test_local/test_file_5.dat
+Creating file: nfs_test_local/test_file_6.dat
+Creating file: nfs_test_local/test_file_7.dat
+Creating file: nfs_test_local/test_file_8.dat
+Creating file: nfs_test_local/test_file_9.dat
+Total data: 1000.00 MB, Time taken: 4.52 seconds, Throughput: 221.45 MB/s
+(base) brianknight@Brians-MBP nfs-test % 
+
